@@ -1,10 +1,10 @@
 If you are adding a new RPC, please answer the following questions.
 
 #### Link the service provider's website (the company/protocol/individual providing the RPC):
-
+https://rpc.oragon.network/node/ethereum_api
 
 #### Provide a link to your privacy policy:
-
+https://oragon.network/eula
 
 #### If the RPC has none of the above and you still think it should be added, please explain why:
 
